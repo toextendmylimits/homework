@@ -7,3 +7,4 @@
 6. 0090	Subsets II
 7. 0098	Validate Binary Search Tree
 8. 0104	Maximum Depth of Binary Tree
+9. 0112	Path Sum
