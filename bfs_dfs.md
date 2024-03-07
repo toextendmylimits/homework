@@ -5,3 +5,4 @@
 4. 0078	Subsets
 5. 0079	Word Search
 6. 0090	Subsets II
+7. 0098	Validate Binary Search Tree
