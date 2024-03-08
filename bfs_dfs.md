@@ -26,3 +26,5 @@
     Difficult. Memorize it
 21. 0131	Palindrome Partitioning  
     Beware TC O(N * 2 ^ N), SC O(N)
+22. 0491	Increasing Subsequences  
+    Difficult. Memorize it.
