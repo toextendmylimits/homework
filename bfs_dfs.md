@@ -30,3 +30,5 @@
     Difficult. Memorize it.
 23. 0513	Find Bottom Left Tree Value
 24. 0127	Word Ladder
+25. 0329	Longest Increasing Path in a Matrix  
+    Difficult. Memorize it.
