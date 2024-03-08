@@ -32,3 +32,5 @@
 24. 0127	Word Ladder
 25. 0329	Longest Increasing Path in a Matrix  
     Difficult. Memorize it.
+26. 0310	Minimum Height Trees    
+    Difficult. Memorize it.
