@@ -34,3 +34,5 @@
     Difficult. Memorize it.
 26. 0310	Minimum Height Trees    
     Difficult. Memorize it.
+27. 0332	Reconstruct Itinerary  
+    Extremely difficult. Memorize it 
