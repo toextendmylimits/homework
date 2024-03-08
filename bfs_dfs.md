@@ -36,3 +36,5 @@
     Difficult. Memorize it.
 27. 0332	Reconstruct Itinerary  
     Extremely difficult. Memorize it 
+28. 529	Minesweeper  
+    A bit difficult as well.  
