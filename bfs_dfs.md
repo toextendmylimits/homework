@@ -38,3 +38,5 @@
     Extremely difficult. Memorize it 
 28. 529	Minesweeper  
     A bit difficult as well.  
+29. 0526	Beautiful Arrangement  
+    Permuation. Save position instead of path as no need to find exact patj
