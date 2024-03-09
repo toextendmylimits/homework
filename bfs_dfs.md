@@ -45,3 +45,5 @@
 31. 0419	Battleships in a Board
 32. 0037	Sudoku Solver  
     Difficult. Memorize code. TC O(N! ^ N), SC O(N * N)
+33. 0306	Additive Number  
+    Backtrack. Understand code. 
