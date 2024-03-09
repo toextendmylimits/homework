@@ -43,3 +43,5 @@
 30. 0430	Flatten a Multilevel Doubly Linked List  
   Modestly difficult. Memorize the code.  Should learn O(n) recursive one.  
 31. 0419	Battleships in a Board
+32. 0037	Sudoku Solver  
+33. Difficult. Memorize code. TC O(N! ^ N), SC O(N * N)
