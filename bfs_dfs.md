@@ -54,3 +54,5 @@
 37. 0301	Remove Invalid Parentheses
 38. 0126	Word Ladder II  
     BFS + DFS Backtrack
+473. 0473	Matchsticks to Square  
+     Backtrack
