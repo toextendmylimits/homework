@@ -28,7 +28,7 @@
 22. 0131	Palindrome Partitioning  
     Beware TC O(N * 2 ^ N), SC O(N)
 23. 0491	Increasing Subsequences  
-    Difficult. Memorize it.
+    Difficult. Memorize it. Use set to de-duplicate.
 24. 0513	Find Bottom Left Tree Value
 25. 0127	Word Ladder
 26. 0329	Longest Increasing Path in a Matrix  
