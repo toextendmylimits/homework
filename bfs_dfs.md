@@ -9,7 +9,7 @@
 8. 0104	Maximum Depth of Binary Tree
 9. 0112	Path Sum
 10. 0113	Path Sum II   
-  Remember to pop for backtrack
+  Remember to pop for backtrack. Need to practice a few more times.
 11. 0129	Sum Root to Leaf Numbers
 12. 0133	Clone Graph
 13. 0199	Binary Tree Right Side View
