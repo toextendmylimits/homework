@@ -55,6 +55,7 @@
 38. 0126	Word Ladder II  
     BFS + DFS Backtrack
 39. 0473	Matchsticks to Square  
-     Backtrack
-40. 0417	Pacific Atlantic Water Flow  
+     Backtrack  
+    TC O(4 ^ N) because we have a total of N sticks and for each one of those matchsticks, we have 4 different possibilities for the subsets they might belong to or the side of the square they might be a part of.
+41. 0417	Pacific Atlantic Water Flow  
     Typical DFS. In DFS, have parameter previous height, visited and result that represent whether water can fill to occean.  
