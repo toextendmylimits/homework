@@ -22,7 +22,7 @@
     Beware TC and SC
 19. 0429	N-ary Tree Level Order Traversal
 20. 0337	House Robber III  
-    Difficult. Memorize it. 
+    Difficult. Memorize it. https://leetcode.com/problems/house-robber-iii/
 21. 0130	Surrounded Regions  
     Difficult. Memorize it
 22. 0131	Palindrome Partitioning  
