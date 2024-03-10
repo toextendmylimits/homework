@@ -56,4 +56,5 @@
     BFS + DFS Backtrack
 39. 0473	Matchsticks to Square  
      Backtrack
-40. 0417	Pacific Atlantic Water Flow
+40. 0417	Pacific Atlantic Water Flow  
+    Typical DFS. In DFS, have parameter previous height, visited and result that represent whether water can fill to occean.  
