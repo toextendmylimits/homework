@@ -53,7 +53,7 @@
 36. 0241	Different Ways to Add Parentheses  
     Each sub-expression can be split into two parts at each operator, generating a combination of left and right results which can be anywhere from 1 to Catalan(n) (which is an upper bound on the number of unique BSTs that can be formed with n nodes). The Catalan number grows approximately as 4^n / (n^(3/2) sqrt(pi)), which is less than 2^n.  
     
-Considering the above facts and the memoization, the upper bound on the time complexity is O(n * 2^n * n) = O(n^2 * 2^n) since for each operator we do two recursive calls and combine their results, plus the iteration for combining results that take O(n) time.
+    Considering the above facts and the memoization, the upper bound on the time complexity is O(n * 2^n * n) = O(n^2 * 2^n) since for each operator we do two recursive calls and combine their results, plus the iteration for combining results that take O(n) time.
 38. 0301	Remove Invalid Parentheses
 39. 0126	Word Ladder II  
     BFS + DFS Backtrack
