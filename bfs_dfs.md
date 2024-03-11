@@ -67,3 +67,4 @@
 # To review many times
 1. 0310 Minimum Height Trees
 2. 0332 Reconstruct Itinerary
+3. 529 Minesweeper
