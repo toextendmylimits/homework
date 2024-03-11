@@ -69,3 +69,5 @@
 2. 0332 Reconstruct Itinerary
 3. 529 Minesweeper
 4. 0526 Beautiful Arrangement
+5. 0430 Flatten a Multilevel Doubly Linked List
+   Learn O(N) later 
