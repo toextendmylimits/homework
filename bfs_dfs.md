@@ -66,8 +66,9 @@
 
 # To review many times
 1. 0310 Minimum Height Trees
-2. 0332 Reconstruct Itinerary
-3. 529 Minesweeper
-4. 0526 Beautiful Arrangement
-5. 0430 Flatten a Multilevel Doubly Linked List
+2. 0332 Reconstruct Itinerary  
+    Not clear at all.  
+4. 529 Minesweeper
+5. 0526 Beautiful Arrangement
+6. 0430 Flatten a Multilevel Doubly Linked List  
    Learn O(N) later 
