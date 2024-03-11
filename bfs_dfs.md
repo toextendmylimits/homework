@@ -72,3 +72,4 @@
 5. 0526 Beautiful Arrangement
 6. 0430 Flatten a Multilevel Doubly Linked List  
    Learn O(N) later 
+7. 0419 Battleships in a Board
